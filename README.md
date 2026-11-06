@@ -1,6 +1,4 @@
-# OOAD-Project
-
-# 🎓 University Academic Management System
+# University Academic Management System
 
 ### Object-Oriented Analysis and Design (OOAD) | Semester V
 
@@ -499,7 +497,7 @@ Through this project, we explore:
 
 ---
 
-## ⭐ Conclusion
+## Conclusion
 
 The University Academic Management System demonstrates how creational design patterns can address common software design challenges.
 
